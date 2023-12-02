@@ -1,8 +1,8 @@
+# HF-ICT FR22 / HE22
+
 ![Schule](https://img.shields.io/badge/hf--ict-school?label=Schule&labelColor=grey&color=red)
 ![Klasse](https://img.shields.io/badge/FR22-class?label=Klasse&labelColor=grey&color=orange)
 ![Klasse](https://img.shields.io/badge/HE22-class?label=Klasse&labelColor=grey&color=green)
-
-# HF-ICT FR22 / HE22
 
 > [!NOTE]
 > Dies ist kein offizielles Repository der hf-ict!
