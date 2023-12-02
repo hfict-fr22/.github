@@ -1,4 +1,4 @@
-![Schule](https://img.shields.io/badge/hf--ict-school?label=Klasse&labelColor=grey&color=orange)
+![Schule](https://img.shields.io/badge/hf--ict-school?label=Klasse&labelColor=grey&color=red)
 ![Klasse](https://img.shields.io/badge/FR22-class?label=Klasse&labelColor=grey&color=orange)
 ![Klasse](https://img.shields.io/badge/HE22-class?label=Klasse&labelColor=grey&color=green)
 
