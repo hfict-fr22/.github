@@ -1,6 +1,6 @@
-[![Schule](https://img.shields.io/badge/Schule_hf--ict-red)]
-[![Klasse](https://img.shields.io/badge/Klasse_FR22-orange)]
-[![Klasse](https://img.shields.io/badge/Klasse_HE22-green)]
+![Schule](https://img.shields.io/badge/Schule_hf--ict-red)
+![Klasse](https://img.shields.io/badge/Klasse_FR22-orange)
+![Klasse](https://img.shields.io/badge/Klasse_HE22-green)
 
 # HF-ICT FR22 / HE22
 
